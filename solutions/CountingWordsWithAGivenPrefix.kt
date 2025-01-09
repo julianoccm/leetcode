@@ -2,7 +2,7 @@
 
 package exercises
 
-class `2185_CountingWordsWithAGivenPrefix` {
+class CountingWordsWithAGivenPrefix {
     fun prefixCount(words: Array<String>, pref: String): Int {
         var counter = 0
 
