@@ -1,6 +1,4 @@
-//https://leetcode.com/problems/counting-words-with-a-given-prefix/
-
-package exercises
+//https://leetcode.com/problems/counting-words-with-a-given-prefix
 
 class CountingWordsWithAGivenPrefix {
     fun prefixCount(words: Array<String>, pref: String): Int {
