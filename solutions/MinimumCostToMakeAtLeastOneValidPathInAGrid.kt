@@ -1,4 +1,5 @@
 //https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid
+//Solution details: https://leetcode.com/submissions/detail/1512567910
 
 class MinimumCostToMakeAtLeastOneValidPathInAGrid {
     fun minCost(grid: Array<IntArray>): Int {
