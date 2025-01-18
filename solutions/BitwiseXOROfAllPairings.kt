@@ -1,4 +1,5 @@
 //https://leetcode.com/problems/bitwise-xor-of-all-pairings
+//Solution details: https://leetcode.com/submissions/detail/1510925930
 
 class BitwiseXOROfAllPairings {
     fun xorAllNums(nums1: IntArray, nums2: IntArray): Int {
