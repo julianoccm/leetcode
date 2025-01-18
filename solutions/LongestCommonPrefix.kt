@@ -1,4 +1,5 @@
 //https://leetcode.com/problems/longest-common-prefix
+//Solution details: https://leetcode.com/submissions/detail/1508750742
 
 class LongestCommonPrefix {
     fun longestCommonPrefix(strs: Array<String>): String {
