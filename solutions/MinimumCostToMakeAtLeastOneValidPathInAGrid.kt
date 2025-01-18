@@ -1,3 +1,5 @@
+//https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid
+
 class MinimumCostToMakeAtLeastOneValidPathInAGrid {
     fun minCost(grid: Array<IntArray>): Int {
         val directions = arrayOf(
