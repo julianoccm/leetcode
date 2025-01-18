@@ -1,4 +1,5 @@
 //https://leetcode.com/problems/minimize-xor
+//Solution details: https://leetcode.com/submissions/detail/1509881107
 
 class MinimizeXOR {
     fun countSetBits(x: Int): Int {
