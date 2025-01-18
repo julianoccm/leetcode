@@ -1,4 +1,5 @@
 //https://leetcode.com/problems/two-sum
+//Solution details: https://leetcode.com/submissions/detail/1505187772
 
 class TwoSum {
     fun twoSum(nums: IntArray, target: Int): IntArray {
