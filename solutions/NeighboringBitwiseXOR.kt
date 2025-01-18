@@ -1,4 +1,5 @@
 //https://leetcode.com/problems/neighboring-bitwise-xor
+//Solution details: https://leetcode.com/submissions/detail/1511914867
 
 class NeighboringBitwiseXOR {
     fun doesValidArrayExist(derived: IntArray): Boolean {
