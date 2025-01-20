@@ -14,5 +14,6 @@
 | 2185           | [Counting Words With a Given Prefix](https://github.com/julianoccm/leetcode/blob/main/solutions/CountingWordsWithAGivenPrefix.kt) |
 | 2425           | [Bitwise XOR of All Pairings](https://github.com/julianoccm/leetcode/blob/main/solutions/BitwiseXOROfAllPairings.kt)
 | 2429           | [Minimize XOR](https://github.com/julianoccm/leetcode/blob/main/solutions/MinimizeXOR.kt) | 
+| 2661           | [First Completely Painted Row or Column](https://github.com/julianoccm/leetcode/blob/main/solutions/FirstCompletelyPaintedRowOrColumn.kt)
 | 2683           | [Neighboring Bitwise XOR](https://github.com/julianoccm/leetcode/blob/main/solutions/NeighboringBitwiseXOR.kt) |
 
