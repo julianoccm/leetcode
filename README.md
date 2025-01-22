@@ -11,6 +11,7 @@
 | 14             | [Longest Common Prefix](https://github.com/julianoccm/leetcode/blob/main/solutions/LongestCommonPrefix.kt) | 
 | 407            | [Trapping Rain Water II](https://github.com/julianoccm/leetcode/blob/main/solutions/TrappingRainWaterII.kt)
 | 1368           | [Minimum Cost to Make at Least One Valid Path in a Grid](https://github.com/julianoccm/leetcode/blob/main/solutions/MinimumCostToMakeAtLeastOneValidPathInAGrid.kt) |
+| 1765           | [Map of Highest Peak](https://github.com/julianoccm/leetcode/blob/main/solutions/MapOfHighestPeak.kt) |
 | 2017           | [Grid Game](https://github.com/julianoccm/leetcode/blob/main/solutions/GridGame.kt) | 
 | 2185           | [Counting Words With a Given Prefix](https://github.com/julianoccm/leetcode/blob/main/solutions/CountingWordsWithAGivenPrefix.kt) |
 | 2425           | [Bitwise XOR of All Pairings](https://github.com/julianoccm/leetcode/blob/main/solutions/BitwiseXOROfAllPairings.kt)
